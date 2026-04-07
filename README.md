@@ -26,6 +26,7 @@ Readings currently exist for the following abstract concepts: [Stereotypes](#ste
 ### Stereotypes
 
 - [Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets](https://aclanthology.org/2021.acl-long.81/) - Su Lin Blodgett, Gilsinia Lopez, Alexandra Olteanu, Robert Sim, Hanna Wallach (2021)
+- [Power(ful) Associations: Rethinking “Stereotype” for NLP](https://aclanthology.org/2025.gebnlp-1.4/) - Hannah Devinney (2025)
 
 ### Interpretability
 
