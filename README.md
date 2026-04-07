@@ -21,7 +21,7 @@ Operationalization
 
 ## Concept-specific Readings
 
-Readings currently exist for the following abstract concepts: [Stereotypes](#stereotypes), [interpretability](#interpretability), [explainability](#explainability).
+Readings currently exist for the following abstract concepts: [Stereotypes](#stereotypes), [interpretability](#interpretability), [explainability](#explainability), [paraphrases](#paraphrases), [bias](#bias), [race](#race), [emergent abilities](#emergent-abilities), [gender](#gender), [generalization](#generalization), [names](#names), [reasoning](#reasoning), [culture](#culture).
 
 ### Stereotypes
 
@@ -40,6 +40,48 @@ Readings currently exist for the following abstract concepts: [Stereotypes](#ste
 - [Attention is not not Explanation](https://aclanthology.org/D19-1002/) - Sarah Wiegreffe, Yuval Pinter (2019)
 - [Learning to Faithfully Rationalize by Construction](https://aclanthology.org/2020.acl-main.409/) - Sarthak Jain, Sarah Wiegreffe, Yuval Pinter, Byron C. Wallace (2020)
 - [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://aclanthology.org/2020.blackboxnlp-1.14/) - Jasmijn Bastings, Katja Filippova (2020)
+
+### Paraphrases
+
+- [What Is a Paraphrase?](https://aclanthology.org/J13-3001/) - Rahul Bhagat, Eduard Hovy (2013)
+
+### Bias
+
+- [Language (Technology) is Power: A Critical Survey of "Bias" in NLP](https://aclanthology.org/2020.acl-main.485/) - Su Lin Blodgett, Solon Barocas, Hal Daumé III, Hanna Wallach (2020)
+- [Intrinsic Bias Metrics Do Not Correlate with Application Bias](https://aclanthology.org/2021.acl-long.150/) - Seraphina Goldfarb-Tarrant, Rebecca Marchant, Ricardo Muñoz Sánchez, Mugdha Pandya, Adam Lopez (2021)
+- [Annotators with Attitudes: How Annotator Beliefs And Identities Bias Toxic Language Detection](https://aclanthology.org/2022.naacl-main.431/) - Maarten Sap, Swabha Swayamdipta, Laura Vianna, Xuhui Zhou, Yejin Choi, Noah A. Smith (2022)
+
+### Race
+
+- [A Survey of Race, Racism, and Anti-Racism in NLP](https://aclanthology.org/2021.acl-long.149/) - Anjalie Field, Su Lin Blodgett, Zeerak Waseem, Yulia Tsvetkov (2021)
+
+### Emergent abilities
+
+- [Are Emergent Abilities of Large Language Models a Mirage?](https://proceedings.neurips.cc/paper_files/paper/2023/hash/adc98a266f45005c403b8311ca7e8bd7-Abstract-Conference.html) - Rylan Schaeffer, Brando Miranda, Sanmi Koyejo (2023)
+
+### Gender
+
+- [Gender as a Variable in Natural-Language Processing: Ethical Considerations](https://aclanthology.org/W17-1601/) - Brian Larson (2017)
+- [Theories of "Gender" in NLP Bias Research](https://dl.acm.org/doi/10.1145/3531146.3534627) - Hannah Devinney, Jenny Björklund, Henrik Björklund (2022)
+
+### Generalization
+
+- [A taxonomy and review of generalization research in NLP](https://www.nature.com/articles/s42256-023-00729-y) - Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Mikel Artetxe, Yanai Elazar, Tiago Pimentel, Christos Christodoulopoulos, Karim Lasri, Naomi Saphra, Arabella Sinclair, Dennis Ulmer, Florian Schottmann, Khuyagbaatar Batsuren, Kaiser Sun, Koustuv Sinha, Leila Khalatbari, Maria Ryskina, Rita Frieske, Ryan Cotterell, Zhijing Jin (2023)
+
+### Names
+
+- [Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP](https://aclanthology.org/2024.gebnlp-1.20/) - Vagrant Gautam, Arjun Subramonian, Anne Lauscher, Os Keyes (2024)
+
+### Reasoning
+
+- [Back to Square One: Artifact Detection, Training and Commonsense Disentanglement in the Winograd Schema](https://aclanthology.org/2021.emnlp-main.819/) - Yanai Elazar, Hongming Zhang, Yoav Goldberg, Dan Roth (2021)
+- [Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00719/125951/Robust-Pronoun-Fidelity-with-English-LLMs-Are-they) - Vagrant Gautam, Eileen Bingert, Dawei Zhu, Anne Lauscher, Dietrich Klakow (2024)
+- [Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks](https://aclanthology.org/2024.naacl-long.102/) - Zhaofeng Wu, Linlu Qiu, Alexis Ross, Ekin Akyürek, Boyuan Chen, Bailin Wang, Najoung Kim, Jacob Andreas, Yoon Kim (2024)
+- [Cognitive Foundations for Reasoning and Their Manifestation in LLMs](https://arxiv.org/abs/2511.16660) - Priyanka Kargupta, Shuyue Stella Li, Haocheng Wang, Jinu Lee, Shan Chen, Orevaoghene Ahia, Dean Light, Thomas L. Griffiths, Max Kleiman-Weiner, Jiawei Han, Asli Celikyilmaz, Yulia Tsvetkov (2025)
+
+### Culture
+
+- [Culture is Not Trivia: Sociocultural Theory for Cultural NLP](https://aclanthology.org/2025.acl-long.1256/) - Naitian Zhou, David Bamman, Isaac L. Bleaman (2025)
 
 ## Citation
 
