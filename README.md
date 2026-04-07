@@ -21,6 +21,26 @@ Operationalization
 
 ## Concept-specific Readings
 
+Readings currently exist for the following abstract concepts: [Stereotypes](#stereotypes), [interpretability](#interpretability), [explainability](#explainability).
+
+### Stereotypes
+
+- [Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets](https://aclanthology.org/2021.acl-long.81/) - Su Lin Blodgett, Gilsinia Lopez, Alexandra Olteanu, Robert Sim, Hanna Wallach (2021)
+
+### Interpretability
+
+- [The Mythos of Model Interpretability: In machine learning, the concept of interpretability is both important and slippery](https://dl.acm.org/doi/10.1145/3236386.3241340) - Zachary C. Lipton (2018)
+- [Against Interpretability: a Critical Examination of the Interpretability Problem in Machine Learning](https://link.springer.com/article/10.1007/s13347-019-00372-9) - Maya Krishnan (2020)
+- [Mechanistic?](https://aclanthology.org/2024.blackboxnlp-1.30/) - Naomi Saphra, Sarah Wiegreffe (2024)
+
+### Explainability
+
+- [Explainable AI: Beware of Inmates Running the Asylum Or: How I Learnt to Stop Worrying and Love the Social and Behavioural Sciences](https://arxiv.org/abs/1712.00547) - Tim Miller, Piers Howe, Liz Sonenberg (2017)
+- [Attention is not Explanation](https://aclanthology.org/N19-1357/) - Sarthak Jain, Byron C. Wallace (2019)
+- [Attention is not not Explanation](https://aclanthology.org/D19-1002/) - Sarah Wiegreffe, Yuval Pinter (2019)
+- [Learning to Faithfully Rationalize by Construction](https://aclanthology.org/2020.acl-main.409/) - Sarthak Jain, Sarah Wiegreffe, Yuval Pinter, Byron C. Wallace (2020)
+- [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://aclanthology.org/2020.blackboxnlp-1.14/) - Jasmijn Bastings, Katja Filippova (2020)
+
 ## Citation
 
 If you find this useful, please consider citing the [paper about the course](https://aclanthology.org/2026.teachingnlp-1.11/):
