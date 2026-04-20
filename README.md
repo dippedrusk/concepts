@@ -24,7 +24,11 @@ Operationalization
 
 ## Concept-specific Readings
 
-Readings currently exist for the following abstract concepts: [Stereotypes](#stereotypes), [interpretability](#interpretability), [explainability](#explainability), [paraphrases](#paraphrases), [bias](#bias), [race](#race), [emergent abilities](#emergent-abilities), [gender](#gender), [generalization](#generalization), [names](#names), [reasoning](#reasoning), [culture](#culture).
+Readings currently exist for the following abstract concepts: [Robustness](#robustness), [stereotypes](#stereotypes), [interpretability](#interpretability), [explainability](#explainability), [paraphrases](#paraphrases), [bias](#bias), [race](#race), [emergent abilities](#emergent-abilities), [gender](#gender), [generalization](#generalization), [names](#names), [reasoning](#reasoning), [culture](#culture).
+
+### Robustness
+
+- [Beyond generalization: A theory of robustness in machine learning](https://link.springer.com/article/10.1007/s11229-023-04334-9) - Timo Freiesleben, Thomas Grote (2023)
 
 ### Stereotypes
 
