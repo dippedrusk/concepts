@@ -44,10 +44,13 @@ Readings currently exist for the following abstract concepts: [Robustness](#robu
 ### Explainability
 
 - [Explainable AI: Beware of Inmates Running the Asylum Or: How I Learnt to Stop Worrying and Love the Social and Behavioural Sciences](https://arxiv.org/abs/1712.00547) - Tim Miller, Piers Howe, Liz Sonenberg (2017)
+- [Explanation in artificial intelligence: Insights from the social sciences](https://www.sciencedirect.com/science/article/pii/S0004370218305988) - Tim Miller (2019)
 - [Attention is not Explanation](https://aclanthology.org/N19-1357/) - Sarthak Jain, Byron C. Wallace (2019)
 - [Attention is not not Explanation](https://aclanthology.org/D19-1002/) - Sarah Wiegreffe, Yuval Pinter (2019)
 - [Learning to Faithfully Rationalize by Construction](https://aclanthology.org/2020.acl-main.409/) - Sarthak Jain, Sarah Wiegreffe, Yuval Pinter, Byron C. Wallace (2020)
 - [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://aclanthology.org/2020.blackboxnlp-1.14/) - Jasmijn Bastings, Katja Filippova (2020)
+- [Is Attention Explanation? An Introduction to the Debate](https://aclanthology.org/2022.acl-long.269/) - Adrien Bibal, Rémi Cardon, David Alfter, Rodrigo Wilkens, Xiaoou Wang, Thomas François, Patrick Watrin (2022)
+- [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.nature.com/articles/s42256-019-0048-x) - Cynthia Rudin (2019)
 
 ### Paraphrases
 
