@@ -9,5 +9,5 @@
 ## April 28th - Names
 
 - [Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP](https://aclanthology.org/2024.gebnlp-1.20/) - Vagrant Gautam, Arjun Subramonian, Anne Lauscher, Os Keyes (2024)
-- [A Rose by Any Other Name would not Smell as Sweet: Social Bias in Names Mistranslation](https://aclanthology.org/2023.emnlp-main.239/) - Sandra Sandoval, Jieyu Zhao, Marine Carpuat, Hal Daumé III
-- [The Gender Gap Tracker: Using Natural Language Processing to measure gender bias in media](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245533) - Fatemeh Torabi Asr, Mohammad Mazraeh, Alexandre Lopes, Vagrant Gautam, Junette Gonzales, Prashanth Rao, Maite Taboada
+- [A Rose by Any Other Name would not Smell as Sweet: Social Bias in Names Mistranslation](https://aclanthology.org/2023.emnlp-main.239/) - Sandra Sandoval, Jieyu Zhao, Marine Carpuat, Hal Daumé III (2023)
+- [The Gender Gap Tracker: Using Natural Language Processing to measure gender bias in media](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245533) - Fatemeh Torabi Asr, Mohammad Mazraeh, Alexandre Lopes, Vagrant Gautam, Junette Gonzales, Prashanth Rao, Maite Taboada (2021)
